@@ -15,7 +15,7 @@ class DefaultController extends Controller
      * @Method({"GET"})
      *
      * @param Request $request
-     * 
+     *
      * @return \Symfony\Component\HttpFoundation\Response
      */
     public function indexAction(Request $request)
