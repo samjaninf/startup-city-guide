@@ -1,10 +1,11 @@
 {
     "name": "vagrant/startup.city.guide",
-    "license": "proprietary",
+    "license": "MIT",
     "type": "project",
+    "description": "Web app for a Startup City Guide",
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "AppBundle\\": "src/AppBundle/"
         },
         "classmap": [
             "app/AppKernel.php",
