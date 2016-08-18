@@ -1,5 +1,5 @@
 # Oliver Adria (Startup City Guide):
-# This is the original .htaccess content that came with Symfony Standard Framework
+# This is the original web/.htaccess content that came with Symfony Standard Framework
 # For performance reasons, these things should be moved to the server configuration.
 # This is added here for development and testing reasons.
 
